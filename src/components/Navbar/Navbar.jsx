@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="flex w-full max-w-[1660px] items-center justify-between text-2xl text-white md:px-10">
         {/* <img src="" alt="" srcset=" " /> */}
         <Link to="/">
-          <p className="font-bold">MoviesAdda</p>
+          <p className="font-bold">Cinewale</p>
         </Link>
         <div className="relative">
           <input
